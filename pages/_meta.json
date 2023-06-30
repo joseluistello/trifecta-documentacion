@@ -1,15 +1,15 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
+  "another": "Siguiente pagina",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
+    "title": "Sobre Trifecta",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contacto ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "#",
     "newWindow": true
   }
 }
