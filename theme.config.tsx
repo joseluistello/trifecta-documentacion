@@ -8,11 +8,7 @@ const config: DocsThemeConfig = {
   },
   chat: {
     link: '#',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
-  footer: {
-    text: 'Nextra Docs Template',
-  },
+  }
 }
 
 export default config
