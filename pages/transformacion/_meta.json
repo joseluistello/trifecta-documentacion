@@ -1,0 +1,12 @@
+{
+  "introduccion": "Introducción a Pandas",
+  "seleccion_filtrado": "Selección y filtrado de datos",
+  "limpieza_valores_nulos": "Limpieza y manejo de valores nulos",
+  "manipulacion_columnas": "Manipulación de columnas",
+  "agregacion_agrupacion": "Agregación y agrupación de datos",
+  "transformacion_lambda": "Transformación de datos con funciones lambda",
+  "operaciones_fechas_tiempos": "Operaciones con fechas y tiempos",
+  "fusion_union_combinacion": "Fusionar, unir y combinar datos",
+  "aplicacion_funciones": "Aplicación de funciones a los datos",
+  "exportacion_datos": "Exportación de datos"
+}

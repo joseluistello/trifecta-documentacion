@@ -1,0 +1,13 @@
+{
+  "introduccion": "Introducción a Matplotlib",
+  "line_plot": "Gráficos de línea",
+  "scatter_plot": "Gráficos de dispersión",
+  "bar_plot": "Gráficos de barras",
+  "histogram_plot": "Gráficos de histograma",
+  "pie_plot": "Gráficos de torta",
+  "box_plot": "Gráficos de caja",
+  "heatmap_plot": "Gráficos de mapa de calor",
+  "3d_plot": "Gráficos en 3D",
+  "personalizacion": "Personalización de gráficos",
+  "guardar_graficos": "Guardar gráficos"
+}

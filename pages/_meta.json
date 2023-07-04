@@ -1,14 +1,10 @@
 {
   "index": "Introduccion",
-  "casos": "Casos de uso",
-  "prompting": "Como darle instrucciones a Trifecta",
-  "graficas": "Como graficar tus datos",
-  "funcionalidades": "Funcionalidades",
-  "faq": "Preguntas frecuentes",
-  "contact": {
-    "title": "Contacto ↗",
-    "type": "page",
-    "href": "#",
-    "newWindow": true
-  }
+  "como-funciona": "Como funciona Trifecta",
+  "guia": "Como crear las mejores instrucciones para Trifecta",
+  "sql": "Consultas a bases de datos",
+  "transformacion": "Transformacion de datos",
+  "visualizacion": "Visualizacion de datos",
+  "casos": "Casos de uso reales",
+  "preguntas": "Preguntas frecuentes"
 }

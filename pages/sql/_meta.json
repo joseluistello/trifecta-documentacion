@@ -1,0 +1,12 @@
+{
+"introduccion": "Introducción a SQL",
+"select_query": "Consulta SELECT",
+"where_clause": "Clausula WHERE",
+"joins": "Joins",
+"agregacion": "Funciones de agregación",
+"funciones_ventana": "Funciones de ventana",
+"group_by_clause": "Clausula GROUP BY",
+"having_clause": "Clausula HAVING",
+"ordenamiento": "Ordenamiento de datos",
+"subconsultas": "Subconsultas"
+}
