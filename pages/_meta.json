@@ -1,11 +1,10 @@
 {
   "index": "Introduccion",
-  "another": "Siguiente pagina",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "Sobre Trifecta",
-    "type": "page"
-  },
+  "casos": "Casos de uso",
+  "prompting": "Como darle instrucciones a Trifecta",
+  "graficas": "Como graficar tus datos",
+  "funcionalidades": "Funcionalidades",
+  "faq": "Preguntas frecuentes",
   "contact": {
     "title": "Contacto ↗",
     "type": "page",

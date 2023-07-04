@@ -4,10 +4,10 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Trifecta</span>,
   project: {
-    link: '#',
+    link: 'https://ai.trifecta.fyi/',
   },
   chat: {
-    link: '#',
+    link: 'https://ai.trifecta.fyi/',
   }
 }
 
