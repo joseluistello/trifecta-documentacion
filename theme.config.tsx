@@ -28,8 +28,8 @@ const config: DocsThemeConfig = {
     const { route } = useRouter()
     const socialCard =
       route === '/' || !title
-        ? 'https://nextra.site/og.jpeg'
-        : `https://nextra.site/api/og?title=${title}`
+        ? 'https://opengraphs.s3.us-east-2.amazonaws.com/opengraph.jpg'
+        : ``
 
     return (
       <>
